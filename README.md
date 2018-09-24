@@ -30,10 +30,16 @@ var SECRET = 'EPrY-sRVJLxgUf9lOSgCFCKPpH_Odv94YZfjUviMR_fy8c2xdYiWFRueLwt8Bw2wlB
 Make sure you have [Node.js](http://nodejs.org/) installed.
 
 ```sh
-git clone git@github.com:yoganandgopalan/theiconic.git # or clone your own fork
+git clone git@github.com:yoganandgopalan/paypal.git # or clone your own fork
 cd paypal
 npm install
 npm start
 ```
 
 Your app should now be running on [localhost:3000](http://localhost:3000/).
+
+
+SandBox Test Account
+-----------
+email: yoganandtestapi@paypal.com
+pass : paypa123@#$
