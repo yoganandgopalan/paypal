@@ -5,7 +5,7 @@ paypal sample integration with nodejs
 PayPal Task setup
 ================
 
-PayPal task done using Node.js 
+PayPal task implemented using Node.js 
 
 Instructions
 ------
